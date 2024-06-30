@@ -1,5 +1,5 @@
 ## Hi👋, Welcome to Georgian's Github👨‍💻.
-![]()
+![](https://github.com/ruca19/ruca19/blob/main/laptop-3361063_1920.jpg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/georgian-rucareanu-72705412b) 
  Here's a Data Analyst who enjoys creating visual representations of data.I'm originally from Romania, and I currently live in Madrid, Spain. 
 
