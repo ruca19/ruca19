@@ -1,6 +1,6 @@
 ## Hola👋, Bienvenido a mi Github👨‍💻.
 ![](https://github.com/ruca19/ruca19/blob/main/laptop-3361063_1920.jpg)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((www.linkedin.com/in/georgian-rucareanu)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgian-rucareanu)
 🌱Estudiante, preparandome para PL-300🏆 y cursando Python🐍 en CFTIC. Aqui podreis encontrar algunos de mis proyectos personales, donde practico todo lo aprendido 
 
 ### 💻 Lenguajes/Herrmaientas:
